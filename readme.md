@@ -6,7 +6,7 @@
 - 2. **Simple Calculator** - Add, Subtract, multiply, divide two numbers    
 - 3. **Temparature Converter** - Celsius to Fahernheit and vice versa
 
-## Day 2: Strins & String Methods
+## Day 2: Strings & String Methods
 - 1. **String Reverser** - Reverse any input stirng
 - 2. **Vowel Counter** - Count vowel in a sentence
 - 3. **Password Strength Checker** - Check length, has numbers, special chars
