@@ -2,12 +2,12 @@
 # WEEK1 : Python Fundamentals
 --------------------------------------------------------------------------------------------------
 ## Day 1: Variables, Data Types, Input/Output
-- 1. **Helloworld + User Greeting** - Ask name, age and greet user    
-- 2. **Simple Calculator** - Add, Subtract, multiply, divide two numbers    
-- 3. **Temparature Converter** - Celsius to Fahernheit and vice versa
+✅ 1. **Helloworld + User Greeting** - Ask name, age and greet user    
+✅ 2. **Simple Calculator** - Add, Subtract, multiply, divide two numbers    
+✅ 3. **Temparature Converter** - Celsius to Fahernheit and vice versa
 
 ## Day 2: Strings & String Methods
-- 1. **String Reverser** - Reverse any input stirng
+✅ 1. **String Reverser** - Reverse any input stirng
 - 2. **Vowel Counter** - Count vowel in a sentence
 - 3. **Password Strength Checker** - Check length, has numbers, special chars
 
