@@ -27,8 +27,8 @@
 - ✅ 3. **List Reverser** - Reverse a list without using built-in reverse()
 
 ## Day 6: Loops + Lists 05-July (Sunday)
--✅ 1. **Number Guessing Game** - Computer picks random number, user guesses
--✅ 2. **Palindorme Checker** - Check if word/phrase is palindorme
+- ✅ 1. **Number Guessing Game** - Computer picks random number, user guesses
+- ✅ 2. **Palindorme Checker** - Check if word/phrase is palindorme
 - 3. **Fibonacci Generator** - Genarate first N Fibonacci numbers.
 
 ## Day 7: Dictionaries 06-July
