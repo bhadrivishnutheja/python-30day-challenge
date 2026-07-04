@@ -1,37 +1,37 @@
 --------------------------------------------------------------------------------------------------
 # WEEK1 : Python Fundamentals
 --------------------------------------------------------------------------------------------------
-## Day 1: Variables, Data Types, Input/Output
-✅ 1. **Helloworld + User Greeting** - Ask name, age and greet user    
-✅ 2. **Simple Calculator** - Add, Subtract, multiply, divide two numbers    
-✅ 3. **Temparature Converter** - Celsius to Fahernheit and vice versa
+## Day 1: Variables, Data Types, Input/Output 30-july
+- ✅ 1. **Helloworld + User Greeting** - Ask name, age and greet user    
+- ✅ 2. **Simple Calculator** - Add, Subtract, multiply, divide two numbers    
+- ✅ 3. **Temparature Converter** - Celsius to Fahernheit and vice versa
 
-## Day 2: Strings & String Methods
-✅ 1. **String Reverser** - Reverse any input stirng
-- 2. **Vowel Counter** - Count vowel in a sentence
-- 3. **Password Strength Checker** - Check length, has numbers, special chars
+## Day 2: Strings & String Methods 01-july
+- ✅ 1. **String Reverser** - Reverse any input stirng
+- ✅ 2. **Vowel Counter** - Count vowel in a sentence
+- ✅ 3. **Password Strength Checker** - Check length, has numbers, special chars
 
-## Day 3. Conditionals (if/els)
-- 1. **Grade Calculator** - Input marks, output grade (A/B/C/D/F)
-- 2. **Odd/Even Checker** - check if number is odd or even
-- 3. **Leap Year Checker** - Determine if a yer is a leap year
+## Day 3. Conditionals (if/else) 02-july
+- ✅ 1. **Grade Calculator** - Input marks, output grade (A/B/C/D/F)
+- ✅ 2. **Odd/Even Checker** - check if number is odd or even
+- ✅ 3. **Leap Year Checker** - Determine if a yer is a leap year
 
-## Day 4: Loop (for/While)
-- 1. **Mulitplication Table** - Print table for any number
-- 2. **Sum of N numbers** - Calculate sum of first N natual numbers
-- 3. **Pattern Printer** - Print pyramid or triangle patterns with starts
+## Day 4: Loop (for/while) 03-july
+- ✅ 1. **Mulitplication Table** - Print table for any number
+- ✅ 2. **Sum of N numbers** - Calculate sum of first N natual numbers
+- ✅ 3. **Pattern Printer** - Print pyramid or triangle patterns with starts
 
-## Day 5: List & List Operations
-- 1. **Shopping List Managers** - Add, remove, display items
-- 2. **Find Max/Min** - find largest and smallest in a list
-- 3. **List Reverser** - Reverse a list without using built-in reverse()
+## Day 5: List & List Operations 04-july
+- ✅ 1. **Shopping List Managers** - Add, remove, display items
+- ✅ 2. **Find Max/Min** - find largest and smallest in a list
+- ✅ 3. **List Reverser** - Reverse a list without using built-in reverse()
 
-## Day 6: Loops + Lists
+## Day 6: Loops + Lists 05-July (Sunday)
 - 1. **Number Guessing Game** - Computer picks random number, user guesses
 - 2. **Palindorme Checker** - Check if word/phrase is palindorme
 - 3. **Fibonacci Generator** - Genarate first N Fibonacci numbers.
 
-## Day 7: Dictionaries
+## Day 7: Dictionaries 06-July
 - 1. **Phone Book** - Store names and phone number search by name
 - 2. **Word Frequency Counter** - Count how many time each word appears
 - 3. **Student Grade Book** - Store student names and grades, caluculate average.
@@ -40,32 +40,32 @@
 # WEEK 2: Functions & File Handling
 ------------------------------------------------------------------------------------------------
 
-## Day 8: Functions Basics
+## Day 8: Functions Basics 07-July
 - 1. **Function Calculator** - Create separate functions for +,-,*,/
 - 2. **Prime Number Check** - Function to check if number is prime
 - 3. **Area Calculator** - Functions for circle, rectangle, triangle areas.
 
-## Day 9: Functions with Return Values
+## Day 9: Functions with Return Values 08-July
 - 1. **Email Validator** - Check if email format is valid
 - 2. **String Capitalizer** - Capitalize first letter of each word (custom function)
 - 3. **List Sum & Average** - Functions to caluculate sum and average of list
 
-## Day 10: File Reading 
+## Day 10: File Reading  09-July
 - 1. **File Reader** - Read and Display contents of a text file
 - 2. **Line Counter** - Count Number of lines in a file
 - 3. **Word Search in File** - Search for a specific word in a file.
 
-## Day 11: File Writing
+## Day 11: File Writing 10-July
 - 1. **Not Taker** - Write user notes to a file
 - 2. **Log Generator** - Create log entries with timestamp
 - 3. **File copy Program** - Copy contents from one file to another
 
-## Day 12: Working with CSV Files
+## Day 12: Working with CSV Files 11-July 
 - 1. **CSV Reader** - Read and Display CSV data
 - 2. **CSV Writer** - Create a CSV file with user data
 - 3. **CSV Data Filter** - Filter rows based on condition
 
-## Day 13: Exception Handling
+## Day 13: Exception Handling 12-July (sunday)
 - 1. **Safe Division Calculator** - Handle division by zero
 - 2. **File Reader with Error Handling** - Hanle file not found errors
 - 3. **Number input Validator** - Handle non-numeric input gracefully
