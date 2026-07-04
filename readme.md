@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------------------------
 # WEEK1 : Python Fundamentals
---------------------------------------------------------------------------------------------------
+
 ## Day 1: Variables, Data Types, Input/Output 30-july
 - ✅ 1. **Helloworld + User Greeting** - Ask name, age and greet user    
 - ✅ 2. **Simple Calculator** - Add, Subtract, multiply, divide two numbers    
@@ -27,8 +27,8 @@
 - ✅ 3. **List Reverser** - Reverse a list without using built-in reverse()
 
 ## Day 6: Loops + Lists 05-July (Sunday)
-- 1. **Number Guessing Game** - Computer picks random number, user guesses
-- 2. **Palindorme Checker** - Check if word/phrase is palindorme
+-✅ 1. **Number Guessing Game** - Computer picks random number, user guesses
+-✅ 2. **Palindorme Checker** - Check if word/phrase is palindorme
 - 3. **Fibonacci Generator** - Genarate first N Fibonacci numbers.
 
 ## Day 7: Dictionaries 06-July
@@ -38,7 +38,7 @@
 
 ------------------------------------------------------------------------------------------------
 # WEEK 2: Functions & File Handling
-------------------------------------------------------------------------------------------------
+
 
 ## Day 8: Functions Basics 07-July
 - 1. **Function Calculator** - Create separate functions for +,-,*,/
@@ -77,7 +77,7 @@
 
 ------------------------------------------------------------------------------------------------
 # WEEK 3: OOP & Modules
-------------------------------------------------------------------------------------------------
+
 ## Day 15: Classes & Object Basics
 - 1. **Person Class** - Create class with name, age, introduce() method
 - 2. **Banck Account Class** - Deposit, withdraw, check balance
@@ -115,7 +115,7 @@
 
 ------------------------------------------------------------------------------------------------
 # WEEK 4: Web Development with Flask
-------------------------------------------------------------------------------------------------
+
 ## Day 22: Flask Setup & First App
 - 1. **Hello World Flask App** - Display "Hello World" on webpage
 - 2. **About Page** - Create route for / about page
@@ -163,7 +163,7 @@
 
 ------------------------------------------------------------------------------------------------
 # Resources
-------------------------------------------------------------------------------------------------
+
 ## Learning:
 - Python.org official tutorial
 - Real Python (realpyton.com)
